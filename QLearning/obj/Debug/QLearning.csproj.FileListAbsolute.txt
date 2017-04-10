@@ -1,0 +1,9 @@
+C:\Users\mathiass\Source\Workspaces\SampleApplications\Projects\QLearning\QLearning\bin\Debug\QLearning.exe.config
+C:\Users\mathiass\Source\Workspaces\SampleApplications\Projects\QLearning\QLearning\bin\Debug\QLearning.exe
+C:\Users\mathiass\Source\Workspaces\SampleApplications\Projects\QLearning\QLearning\bin\Debug\QLearning.pdb
+C:\Users\mathiass\Source\Workspaces\SampleApplications\Projects\QLearning\QLearning\obj\Debug\QLearning.csprojResolveAssemblyReference.cache
+C:\Users\mathiass\Source\Workspaces\SampleApplications\Projects\QLearning\QLearning\obj\Debug\QLearning.frmQLearning.resources
+C:\Users\mathiass\Source\Workspaces\SampleApplications\Projects\QLearning\QLearning\obj\Debug\QLearning.Properties.Resources.resources
+C:\Users\mathiass\Source\Workspaces\SampleApplications\Projects\QLearning\QLearning\obj\Debug\QLearning.csproj.GenerateResource.Cache
+C:\Users\mathiass\Source\Workspaces\SampleApplications\Projects\QLearning\QLearning\obj\Debug\QLearning.exe
+C:\Users\mathiass\Source\Workspaces\SampleApplications\Projects\QLearning\QLearning\obj\Debug\QLearning.pdb
